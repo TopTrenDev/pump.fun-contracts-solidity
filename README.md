@@ -6,7 +6,7 @@ Welcome to basedotfun or base.fun smart contract with the same functionality as 
 
 If you're interested in having the Pump.fun smart contract access or have any doubts, please reach out to me through the following contacts:
 
-- <a href="https://t.me/evilgon_dev/">Telegram (evilgon_dev)</a>
-- <a href="https://discordapp.com/users/1026521907182444574">Discord (evilgon)</a>
+- <a href="https://t.me/toptrendev/">Telegram (TopTrenDev)</a>
+- <a href="https://x.com/toptrendev/">Telegram (TopTrenDev)</a>
 
-### If you found this helpful, don't forget to <a href="https://github.com/sourlodine">follow</a> me.
+### If you found this helpful, don't forget to <a href="https://github.com/TopTrenDev">follow</a> me.
